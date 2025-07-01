@@ -1,0 +1,10 @@
+ecem502@Ecem-MacBook-Pro-2 ~ % ping 34.154.72.151
+PING 34.154.72.151 (34.154.72.151): 56 data bytes
+64 bytes from 34.154.72.151: icmp_seq=0 ttl=56 time=56.897 ms
+64 bytes from 34.154.72.151: icmp_seq=1 ttl=56 time=55.349 ms
+64 bytes from 34.154.72.151: icmp_seq=2 ttl=56 time=55.184 ms
+^C
+--- 34.154.72.151 ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 55.184/55.810/56.897/0.772 ms
+ecem502@Ecem-MacBook-Pro-2 ~ % 
